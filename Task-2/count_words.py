@@ -1,0 +1,7 @@
+S = input()
+A = S.replace( "!" ," " )
+e = A.replace( "?" ," " )
+b = e.replace( "." ," " )
+m = b.replace( "," , " " )
+L = m.split()
+print (len(L))
