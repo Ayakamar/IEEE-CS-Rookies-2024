@@ -1,6 +1,7 @@
 # IEEE-CS-Rookies-2024 
 ## Task-1
 |   proplem   |  solution  |
+|-------------|------------|
 |[I.smallest pair](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I)|[I.Smallest pair](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/Task-1/smallest_sum.py)|
 |[L.Max Subarray](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L) |[L.Max Subarray](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/Task-1/max_sub.py)|
 |[M.Replace MinMax](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M)|[M.Replace MinMax](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/Task-1/replace_Max_min.py)|
@@ -11,7 +12,8 @@
 |[U.Is Ba subsequence of A](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U) |[U.Is Ba subsequence of A](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/Task-1/Is_B_a_subsequence_of_A.py)|
 
 ## Task-2
-|      proplem |  solution|
+|      proplem |  solution  |
+|--------------|------------|
 |[A. Create A New String](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A)|[A. Create A New String](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/Task-2/create%20A%20New%20string.py)|
 |[G. Conversion](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G)     |[G. Conversion](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/Task-2/conversion.py)|
 |[H. Good or Bad](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H)|[H. Good or Bad](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/Tak-2/gsood%20or%20bad.py)|
@@ -22,6 +24,7 @@
 
 ## Task-3
 |   proplem   |  solution  |
+|-------------|------------|
 |[B. Print](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/B)|[B. Print](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/task-3/print.py)|
 |[C. Wonderful Number](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/C)|[C. Wonderful Number](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/task-3/Wonderful%20Number.py)|
 |[D. Prime Function](https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/D) |[D. Prime Function](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/task-3/Prime_function.py)|
@@ -33,6 +36,7 @@
 
 ## Task-4
 |   proplem   |  solution  |
+|-------------|------------|
 |[D. Xor](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/D)|[D. Xor](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/Task-4/D-Xor.py)|
 |[N. Convert to Base](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/N)|[N. Convert to Base](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/Task-4/N-convert.py)|
 |[F. Multiplication of Matrices](https://codeforces.com/group/MWSDmqGsZm/contest/223338/problem/F) |[F. Multiplication of Matrices](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/Task-4/F_Multiplication_of_Matrices.py)|
@@ -44,6 +48,7 @@
 
 ## Task-5
 |   proplem   |  solution  |
+|-------------|------------|
 |[O. Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O)|[O. Fibonacci](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/task-5/O_fibonacci.py)|
 |[B. Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B)|[B. Print from 1 to N](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/task-5/B_print_from_1_toN.py)|
 |[D. Print Digits using Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D)|[D. Print Digits using Recursion](https://github.com/Ayakamar/IEEE-CS-Rookies-2024/blob/main/task-5/D_Print_Digits_using_Recursion.py)|
